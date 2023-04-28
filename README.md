@@ -29,8 +29,7 @@ As a technical support specialist, I have had the opportunity to work with a wid
 <div id="header" align="center">
 <h2>### 🔥 &nbsp; My GitHub Stats :</h2>
 </div>
-<div align="center">
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tanvirhasan19&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirhasan19&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TanvirHasan19&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
