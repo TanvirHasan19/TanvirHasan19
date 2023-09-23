@@ -22,7 +22,6 @@ As a technical support specialist, I have had the opportunity to work with a wid
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="PhotoShop" alt="PhotoShop" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg" title="After Effects" alt="After Effects" width="40" height="40"/>&nbsp;
 </div>
